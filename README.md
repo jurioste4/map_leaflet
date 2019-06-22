@@ -1,5 +1,8 @@
-# map_leaflet   https://jurioste4.github.io/map_leaflet/index.html
+# map_leaflet     
+### https://jurioste4.github.io/map_leaflet/index.html
 
+
+![map](image/leaflet_map.jpg)
 
 
 • The data is sourced from U.S. Geological Survey (USGS) site, the USGS provides earthquake data in different formats, updated every 5 minutes. On the USGS GeoJSON Feed page and when you click on 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data.
