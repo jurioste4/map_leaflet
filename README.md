@@ -5,6 +5,9 @@
 ![map](image/leaflet_map.jpg)
 
 
+
+
+#### The folder named JS then file logic2.js has the code
 • The data is sourced from U.S. Geological Survey (USGS) site, the USGS provides earthquake data in different formats, updated every 5 minutes. On the USGS GeoJSON Feed page and when you click on 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data.
 
 • Imported & Visualized the Data.
