@@ -1,5 +1,5 @@
 # map_leaflet     
-### https://jurioste4.github.io/map_leaflet/index.html
+### See map here :  http://bit.ly/mapD3  
 
 
 ![map](image/leaflet_map.jpg)
